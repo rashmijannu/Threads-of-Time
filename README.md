@@ -20,15 +20,4 @@ Fashion is more than clothing—it's culture, identity, and revolution stitched 
 - **Libraries:** [Optional: GSAP / Timeline.js / Chart.js / AOS]
 - **Design Tools:** Figma / Canva / Photoshop (for visuals)
 
-## 📁 Project Structure
 
-threads-of-time/
-├── assets/
-│   ├── images/
-│   └── styles/
-├── data/
-│   └── timeline.json
-├── index.html
-├── script.js
-├── style.css
-└── README.md
